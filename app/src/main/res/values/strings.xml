@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="try_again">Tente Novamente</string>
+    <string name="login_hint_email">E-mail</string>
+    <string name="login_hint_password">Senha</string>
+    <string name="login_description">Entrar</string>
+
+</resources>
